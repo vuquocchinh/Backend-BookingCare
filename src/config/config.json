@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "bookingcare",
-    "host": "127.0.0.1",
-    "port": 50001,
+    "username": "avnadmin",
+    "password": "AVNS_4xFjyA2BJV1KR3_aG4-",
+    "database": "defaultdb",
+    "host": "bookingcare-chinh.a.aivencloud.com",
+    "port": 23879,
     "dialect": "mysql",
     "logging": false,
     "raw": true,

@@ -1,8 +1,8 @@
 const { Sequelize } = require("sequelize");
 
-const sequelize = new Sequelize("bookingcare", "root", null, {
-    host: "localhost",
-    port: 50001,
+const sequelize = new Sequelize("defaultdb", "root", null, {
+    host: "bookingcare-chinh.a.aivencloud.com",
+    port: 23879,
     dialect: "mysql",
     logging: false,
 });
